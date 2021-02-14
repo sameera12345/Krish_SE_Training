@@ -1,0 +1,10 @@
+member:
+  role:
+    min: 5
+    max: 35
+course:
+  price:
+    discount: 3
+  subject:
+    model: peer graded
+duration: 90
