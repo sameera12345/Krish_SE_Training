@@ -1,0 +1,4 @@
+com\sameera\lmscloud\commons\model\course\Course.class
+com\sameera\lmscloud\commons\model\student\Hardwork.class
+com\sameera\lmscloud\commons\model\enrollment\Enrollment.class
+com\sameera\lmscloud\commons\model\student\Student.class
